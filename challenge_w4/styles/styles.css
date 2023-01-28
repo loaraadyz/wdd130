@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    background-color: pink;
+    width: 40%;
+    margin:0 auto;
+  }
+
+header h1 {
+    font-size: 30px;
+    color: white;
+  }
+.quote {
+    font-size: 10px;
+    color: white;
+
+}
+
+.prophet {
+    font-size: 11px;
+    width: 100%;
+    color: white;
+
+}
+
+main p {
+    font-size: 13px;
+    text-align: left;
+    margin: 0 0 5px 0;
+}
+
+main img {
+    width: 35%;
+}
+
+main h1 {
+    color: white;
+    font-size: 25px;
+}
+
+footer p {
+    font-size: 13px;
+    margin: 0 0 3px 0;
+}
+
+header h1:hover {
+    color: black;
+}
