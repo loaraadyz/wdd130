@@ -311,3 +311,11 @@ main h2 {
     background-color: white;
     overflow: hidden;
   }
+
+  .faq_image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 20px;
+  }
